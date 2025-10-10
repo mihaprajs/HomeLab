@@ -10,6 +10,15 @@ and networking, notes and more.
 
 It is a free resource to be used in your specific use cases.
 
+## Note
+
+**This is NOT a production ready Homelab! You should use different resources for high availability.**
+
 ## Contributions
 
-I don't except any contributions as this is strictly a personal repository.
+This is strictly personal repository I'm willing to share with others, therefore no contributions will be excepted.
+However, you are welcome to fork it and update and/or change scripts, code, images etc.
+
+## Credits
+
+This repository is heavily inspired by [Christian Lempa's homelab](https://github.com/christianlempa/homelab) repository.
