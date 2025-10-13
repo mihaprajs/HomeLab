@@ -10,6 +10,14 @@ and networking, notes and more.
 
 It is a free resource to be used in your specific use cases.
 
+## Structure
+
+- `cheatsheets`: tips and tricks for systems in one place
+- `lxcs`: contains all configurations for my linux containers (LXCs)
+- `proxmox`: contains everything from network configurations to changes to Proxmox operating system
+- `vms`: contains all configuration files for virtual machines
+  - `docker`: subdirectory for docker container images
+
 ## Note
 
 **This is NOT a production ready Homelab! You should use different resources for high availability.**
