@@ -1,6 +1,5 @@
-# VM config folder
+# VM configuration folder
 
-# Scripts
+## Creation of VMs
 
-Some scripts are modified versions of [Proxmox VE Helper-Scripts](https://community-scripts.github.io/ProxmoxVE/). If the script is modified, it is clearly stated in the
-README.md file for the VM you are trying to set up.
+Some virtual machines were created using [Proxmox VE Helper-Scripts](https://community-scripts.github.io/ProxmoxVE/).

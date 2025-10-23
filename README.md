@@ -12,7 +12,6 @@ It is a free resource to be used in your specific use cases.
 
 ## Structure
 
-- `cheatsheets`: tips and tricks for systems in one place
 - `lxcs`: contains all configurations for my linux containers (LXCs)
 - `proxmox`: contains everything from network configurations to changes to Proxmox operating system
 - `vms`: contains all configuration files for virtual machines
@@ -21,6 +20,11 @@ It is a free resource to be used in your specific use cases.
 ## Note
 
 **This is NOT a production ready Homelab! You should use different resources for high availability.**
+
+### Important links
+1. [Proxmox Enterprise Download Server](https://enterprise.proxmox.com/iso/)
+2. [PVE-mods](https://github.com/Meliox/PVE-mods)
+3. [Community Scripts](https://community-scripts.github.io/ProxmoxVE/)
 
 ## Contributions
 

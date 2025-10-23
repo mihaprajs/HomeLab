@@ -1,5 +1,5 @@
 # LXC config folder
 
-## Scripts
+## Creation
 
-Scripts are mostly modified versions of [Proxmox VE Helper-Scripts](https://community-scripts.github.io/ProxmoxVE/).
+Containers were created using [Proxmox VE Helper-Scripts](https://community-scripts.github.io/ProxmoxVE/).
