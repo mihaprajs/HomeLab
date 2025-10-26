@@ -9,4 +9,6 @@ Created jut for test purposes
 - No desktop environment.
 - Meant for testing stuff or lightweight uni homeworks in linux CLI
 
-## 
+## Debian CLI - powerful
+
+- For harder/more resource hungry tasks.

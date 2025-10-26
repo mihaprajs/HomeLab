@@ -7,9 +7,11 @@ done on the ISP provided router.
 
 ## Tailscale
 
-Rules:
-1. Physical machines have IPs of 100.99.1.X
-2. Virtual machines (VMs) have IPs of 100.100.1.X where X is equal to the machine ID omitting first digit
-3. Linux containers (LXCs) have IPs of 100.100.2.X where X is equal to the machine ID omitting first digit
-4. SSL cert. only for machines that will need it *(until later when every machine gets its own SSL cert. and subdomain)*
-5. IPs looking like 100.99.2.YYY it is a mobile device (e.g. laptop, phone)
+### IP rules:
+1. 100.99.XXX.YYY for physical machines 
+2. 100.100.1.XXX for VMs (same as VM ID omitting first digit)
+3. 100.100.2.XXX for CTs (same as CT ID omitting first digit)
+
+### SSL certificates
+SSL certificates are set up only on machines that need them for proper operating.
+*Later all the VMs/CTs will get their own SSL certificates.*
