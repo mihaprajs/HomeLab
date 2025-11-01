@@ -7,7 +7,7 @@ Unless specified otherwise, all the installation scripts, files etc. are from
 
 ## Proxmox
 
-1. [ ] Automate updates
+1. [ ] Automated updates
 
 ## VMs
 
