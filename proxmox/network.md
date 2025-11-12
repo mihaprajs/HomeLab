@@ -13,6 +13,10 @@ done on the ISP provided router.
 3. 100.100.2.XXX for CTs (same as CT ID omitting first digit).
 4. If the second digit is a 0, it is omitted.
 
+### Other rules:
+
+1. Expiry keys are disabled for VMs/CTs and main server
+
 ## SSL certificates
 SSL certificates are set up only on machines that need them for proper operating.
 *Later all the VMs/CTs will get their own SSL certificates.*

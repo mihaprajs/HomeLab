@@ -19,7 +19,7 @@ Proxmox server:
 Asus Router RT-AC1200 **(All the important networking done on the ISP provided router)**
 
 Additional hardware I have, but I don't use it (not complete or accurate):
-- GPU: Nvidia MX300
+- GPU: Nvidia GeForce 315
 - HDD: Seagate Barracuda 1 TB from 2013
 - Cables:
   - 1x 10cm SATA cable
@@ -43,12 +43,11 @@ Here are all changes made to the default BIOS configuration:
      - C6/C7 State Support: Auto -> Enabled
      - C8 State Support: Auto -> Enabled
      - C10 State Support: Auto -> Enabled
-     - Package C State Limit: Auto -> C10
+     - Package C State Limit: Auto -> C6c
    - Keyboard Wake Up From S3: Enabled -> Disabled
    - Mouse Wake Up From S3: Enabled -> Disabled
    - Power Loading: Auto -> Enabled
-   - Native ASPM: Disabled -> Enabled
-   - Prefferd Operating Mode: Auto -> Advanced Mode
+   - Preferred Operating Mode: Auto -> Advanced Mode
 
 ## Important notes
 
@@ -56,3 +55,5 @@ Here are all changes made to the default BIOS configuration:
 2. Boot order key: **F12**
 3. Q-Flash key: **F10**
 4. Boot up time longer because of LSI HBA
+5. ASPM has to be disabled using GRUB file (path: /etc/default/grub), otherwise NVMe SSDs connected over chipset will be
+throwing errors
