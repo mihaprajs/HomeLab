@@ -1,4 +1,4 @@
-# List of all ISOs with links
+# List of all ISOs (with links)
 
 1. Debian ([debian.org](https://cdimage.debian.org/debian-cd/current/amd64/iso-cd/debian-13.1.0-amd64-netinst.iso))
 2. TrueNAS ([truenas.com](https://download.sys.truenas.net/TrueNAS-SCALE-Fangtooth/25.04.2.4/TrueNAS-SCALE-25.04.2.4.iso))
