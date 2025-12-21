@@ -12,6 +12,7 @@ Here are all the things that need to be done at some point and/or VMs/CTs I also
 ## VMs
 
 1. [ ] Setup NextCloud
+2. [ ] Setup PXE boot environment
 
 ### Docker
 
