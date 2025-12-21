@@ -27,4 +27,3 @@ Here are all the things that need to be done at some point and/or VMs/CTs I also
 
 1. [ ] Setup rmFakeCloud ([source](https://ddvk.github.io/rmfakecloud/))
 2. [ ] Repair Gitea docker install
-3. [ ] NetBoot.xyz setup
