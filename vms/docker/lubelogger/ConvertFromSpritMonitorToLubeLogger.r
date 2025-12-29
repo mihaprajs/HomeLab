@@ -1,3 +1,6 @@
+# R MUST be installed.
+# This script should be used on your mashine and not in the container.
+
 library(tidyverse)
 
 # === 1. Read the original CSV ===
