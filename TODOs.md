@@ -13,6 +13,7 @@ Here are all the things that need to be done at some point and/or VMs/CTs I also
 
 1. [ ] Setup NextCloud
 2. [ ] Setup PXE boot environment (NetBoot.xyz) ([source](https://netboot.xyz/))
+3. [ ] Setup NixOS VM ([source](https://nixos.org/manual/nixos/stable/#sec-installation))
 
 ### Docker
 
