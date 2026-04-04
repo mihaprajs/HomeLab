@@ -13,7 +13,6 @@ and networking, notes and more. It's a free resource to be used in your specific
 - `lxcs`: contains all configurations for my Linux containers (LXCs)
 - `proxmox`: contains everything from network configurations to changes to Proxmox operating system
 - `vms`: contains all configuration files for virtual machines
-  - `docker`: subdirectory for docker container images
 
 ## Note
 
