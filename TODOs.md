@@ -14,12 +14,13 @@ Here are all the things that need to be done at some point and/or VMs/CTs I also
 1. [ ] Setup NextCloud
 2. [ ] Setup PXE boot environment (NetBoot.xyz) ([source](https://netboot.xyz/))
 3. [ ] Setup NixOS VM ([source](https://nixos.org/manual/nixos/stable/#sec-installation))
+4. [ ] Proxmox Datacenter Manager setup
 
-### Docker
+### Docker ? Migrated to LXCs
 
-1. [ ] Setup speedtest-tracker ([source](https://docs.speedtest-tracker.dev/getting-started/installation/using-docker-compose))
-2. [ ] Setup homebox ([source](https://homebox.software/en/))
-3. [ ] Setup Vaultearden/Bitwardden ([source](https://github.com/bitwarden/server))
+1. [ ] ~~Setup speedtest-tracker ([source](https://docs.speedtest-tracker.dev/getting-started/installation/using-docker-compose))~~
+2. [ ] ~~Setup homebox ([source](https://homebox.software/en/))~~
+3. [ ] ~~Setup Vaultearden/Bitwardden ([source](https://github.com/bitwarden/server))~~
 
 ## LXCs
 
@@ -28,4 +29,5 @@ Here are all the things that need to be done at some point and/or VMs/CTs I also
 ## Other stuff
 
 1. [ ] Setup rmFakeCloud ([source](https://ddvk.github.io/rmfakecloud/))
-2. [ ] Repair Gitea docker install
+2. [ ] ~~Repair Gitea docker install~~ (Migrated to LXC)
+3. [ ] Personal Router
