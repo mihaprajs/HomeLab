@@ -7,7 +7,7 @@ Here are all the things that need to be done at some point and/or VMs/CTs I also
 
 ## Proxmox
 
-1. [ ] Automate updates
+1. [x] Automate updates
 
 ## VMs
 
@@ -25,9 +25,15 @@ Here are all the things that need to be done at some point and/or VMs/CTs I also
 ## LXCs
 
 1. [ ] Setup Jellyfin Media Server
+2. [ ] Setup MySpeed
+3. [ ] Setup homebox ([source](https://homebox.software/en/))
+4. [ ] Setup Vaultearden/Bitwardden ([source 1](https://github.com/bitwarden/server), [source 2](https://community-scripts.org/scripts/vaultwarden))
 
 ## Other stuff
 
 1. [ ] Setup rmFakeCloud ([source](https://ddvk.github.io/rmfakecloud/))
 2. [ ] ~~Repair Gitea docker install~~ (Migrated to LXC)
 3. [ ] Personal Router
+   1. [ ] OS install
+   2. [ ] NIC install and setup
+   3. [ ] 
