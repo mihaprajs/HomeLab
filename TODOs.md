@@ -16,7 +16,7 @@ Here are all the things that need to be done at some point and/or VMs/CTs I also
 3. [ ] Setup NixOS VM ([source](https://nixos.org/manual/nixos/stable/#sec-installation))
 4. [ ] Proxmox Datacenter Manager setup
 
-### Docker ? Migrated to LXCs
+### Docker → Migrated to LXCs
 
 1. [ ] ~~Setup speedtest-tracker ([source](https://docs.speedtest-tracker.dev/getting-started/installation/using-docker-compose))~~
 2. [ ] ~~Setup homebox ([source](https://homebox.software/en/))~~
