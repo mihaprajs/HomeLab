@@ -35,5 +35,4 @@ Here are all the things that need to be done at some point and/or VMs/CTs I also
 2. [ ] ~~Repair Gitea docker install~~ (Migrated to LXC)
 3. [ ] Personal Router
    1. [ ] OS install
-   2. [ ] NIC install and setup
-   3. [ ] 
+   2. [ ] NIC install and setup 
