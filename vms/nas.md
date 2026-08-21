@@ -6,4 +6,6 @@
 
 ## Apps
 
-Installed Tailscale and Immich as apps from TrueNAS store.
+1. [x] Tailscale
+2. [x] Immich
+3. [x] Syncthing
