@@ -5,7 +5,7 @@
 This is all the hardware and components I am using in my **Homelab**:
 
 ### Server (custom build):
-- OS: Proxmox 9.2.3
+- OS: Proxmox 9.2
 - CPU: Intel i5-14500
 - Motherboard: Gigabyte Z790 UD
 - RAM: 4x Crucial Pro DDR4 16 GB 6000 MT/s
@@ -30,7 +30,7 @@ This is all the hardware and components I am using in my **Homelab**:
 
 UGreen 5 port 2.5Gb unmanaged switch.  
 
-Additional hardware I have, but I don't use (not complete or accurate):
+Additional hardware I have, but I don't use (by no means complete or accurate):
 - GPU: Nvidia GeForce 315
 - HDD: Seagate Barracuda 1 TB from 2013
 - Cables:

@@ -9,9 +9,10 @@ done on the ISP provided router.
 
 ### IP rules:
 1. 100.99.XXX.YYY for physical machines.
+- 100.99.1.XXX for homelab related machines
+- 100.99.2.XXX for other physical machines
 2. 100.100.1.XXX for VMs (same as VM ID omitting first digit).
 3. 100.100.2.XXX for CTs (same as CT ID omitting first digit).
-4. If the second digit is a 0, it is omitted.
 
 ### Other rules:
 
@@ -19,4 +20,4 @@ done on the ISP provided router.
 
 ## SSL certificates
 SSL certificates are set up only on machines that need them for proper operating.
-*Later all the VMs/CTs will get their own SSL certificates.*
+***Later all the VMs/CTs will get their own SSL certificates.***

@@ -27,7 +27,7 @@ Here are all the things that need to be done at some point and/or VMs/CTs I also
 1. [ ] Setup Jellyfin Media Server
 2. [ ] Setup MySpeed
 3. [ ] Setup homebox ([source](https://homebox.software/en/))
-4. [ ] Setup Vaultearden/Bitwardden ([source 1](https://github.com/bitwarden/server), [source 2](https://community-scripts.org/scripts/vaultwarden))
+4. [ ] Setup Vaultearden/Bitwarden ([source Bitwarden](https://github.com/bitwarden/server), [source Vaultwarden](https://community-scripts.org/scripts/vaultwarden))
 
 ## Other stuff
 

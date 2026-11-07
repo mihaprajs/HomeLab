@@ -2,8 +2,8 @@
 
 ## Windows 11
 
+VM for occasional Windows tasks (stuff that can't be done on Linux).
 
-## Windows 10
+## Windows XP
 
-
-## Other useful resources and commands
+Only for shits and giggles. BECAUSE I CAN!
