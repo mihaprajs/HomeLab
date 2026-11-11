@@ -2,11 +2,9 @@
 
 **Hello there!**
 
-This repository contains all my **Homelab** files. Here you will find documentation, configuration files for applications
-and networking, notes and more. It's a free resource to be used in your specific use cases.
+This repository contains all my **Homelab** files. Here you will find documentation, configuration files for applications and networking, notes and more. It's a free resource to be used in your specific use cases.
 
-> :warning: Be aware, products can change over time. I do my best to keep up with the latest changes and releases, but
-> please understand that this won’t always be the case.
+> :warning: Be aware, products can change over time. I do my best to keep up with the latest changes and releases, but please understand that this won’t always be the case.
 
 ## Structure
 
@@ -25,8 +23,7 @@ and networking, notes and more. It's a free resource to be used in your specific
 
 ## Contributions
 
-This is strictly personal repository I'm willing to share with others, therefore no contributions will be excepted.
-However, you are welcome to fork it and update and/or change scripts, code, images etc.
+This is strictly personal repository I'm willing to share with others, therefore no contributions will be excepted. However, you are welcome to fork it and update and/or change scripts, code, images etc.
 
 ## Credits
 

@@ -13,12 +13,12 @@ This is all the hardware and components I am using in my **Homelab**:
   - Boot SSD/NVME: Kingston NV2 500 GB
   - VM/CT storage: 2x Western Digital Red SN700 1 TB + 2x IcyBox flat aluminum cooler
   - File storage HDD: 4x Seagate IronWolf 2 TB + 2x Crucial BX500 1 TB for cache
-  - HBA: LSI SAS 9300-16i + 1x Fractal Design Silent R3 80mm fan 
+  - ~~HBA: LSI SAS 9300-16i + 1x Fractal Design Silent R3 80mm fan (started constantly rebooting itself)~~
 - PSU: Corsair RM850e
 - Case: Fractal Design Define R6 + 4x Fractal Design Dynamic GP-14 140mm fan
  
 ### Custom router (Lenovo ThinkCenter M920s) - work in progress:
-- OS: openWRT
+- OS: openWRT - probably, final decision about OS yet to come
 - CPU: Intel i5-8500
 - Motherboard: Lenovo proprietary
 - RAM: 2x Lenovo DDR4 4 GB 2666 MT/s

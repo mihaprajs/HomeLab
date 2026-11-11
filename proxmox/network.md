@@ -2,8 +2,7 @@
 
 ## Main configuration
 
-Static IP for host set in ISP provided router. Asus Router set as access point, most of the configuration can only be
-done on the ISP provided router.
+Static IP for host set in ISP provided router. Ugreen 2.5Gb switch between the ISP router and Homelab. Additional port connected to the room for accessing network if/when something breaks.
 
 ## Tailscale
 
@@ -19,5 +18,4 @@ done on the ISP provided router.
 1. Expiry keys are disabled for VMs/CTs and main server
 
 ## SSL certificates
-SSL certificates are set up only on machines that need them for proper operating.
-***Later all the VMs/CTs will get their own SSL certificates.***
+SSL certificates are set up only on machines that need them for proper operating. ***Later all the VMs/CTs will get their own SSL certificates.***

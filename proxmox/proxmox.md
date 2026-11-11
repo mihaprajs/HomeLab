@@ -15,6 +15,8 @@ Changes:
 5. Disabled ASPM and locked C-states to 3 using grub file (path: /etc/default/grub, line: GRUB_CMDLINE_LINUX_DEFAULT="quiet
 pcie_aspm=off processor.max_cstate=3")
 
+Updating Debian packages automatically using ```unattended-updates``` package.
+
 ### Scripts from web
 
 1. PVE-mods ([github.com](https://github.com/Meliox/PVE-mods))
