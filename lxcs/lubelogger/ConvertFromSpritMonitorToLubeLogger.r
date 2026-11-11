@@ -1,12 +1,12 @@
 # R MUST be installed.
-# This script should be used on your mashine and not in the container.
+# This script should be used on your machine and not in the container.
 
 library(tidyverse)
 
 # === 1. Read the original CSV ===
 # Replace 'input.csv' with your file path
 df <- read_delim(
-  "./Downloads/834631_fuelings.csv",
+  "./Downloads/834631_fueling.csv",
   delim = ";",
   locale = locale(decimal_mark = ",", grouping_mark = ""),
   trim_ws = TRUE,
